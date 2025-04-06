@@ -1,12 +1,32 @@
-# React + Vite
+# GameBrowser
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Wprowadzenie do projektu** 
 
-Currently, two official plugins are available:
+Celem projektu jest stworzenie aplikacji internetowej do odkrywania gier wideo, korzystając z React, JavaScript oraz Vite. Będzie to mini wersja popularnej platformy do wyszukiwania gier. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Cele projektu:** 
+---
+* Implementacja trybu jasnego i ciemnego 
+* Możliwość wyszukiwania gier 
+* Filtrowanie gier według gatunku 
+* Filtrowanie gier według platformy (PC, PlayStation, Xbox itd.) 
+* Sortowanie gier według różnych kryteriów 
+* Wyświetlanie szkieletów ładowania podczas pobierania danych
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Projekt będzie realizowany w sposób iteracyjny, bez wcześniejszego projektowania UI. Będziemy zaczynać od podstawowej implementacji, a następnie stopniowo ulepszać kod i dodawać nowe funkcjonalności. 
+
+
+**Kroki realizacji:**
+---
+* Inicjalizacja projektu w Vite. 
+* Tworzenie podstawowej struktury aplikacji w React. 
+* Implementacja podstawowego interfejsu użytkownika. 
+* Dodanie funkcji wyszukiwania gier. 
+* Implementacja filtrowania i sortowania gier. 
+* Dodanie obsługi trybu ciemnego i jasnego. 
+* Udoskonalenie UI, w tym obsługa szkieletów ładowania. 
+* Testowanie i optymalizacja kodu. 
+
+
+Każdy etap realizacji będzie zawierał szczegółowe instrukcje oraz materiały pomocnicze. W kolejnych częściach będziemy rozszerzać funkcjonalność projektu. 
